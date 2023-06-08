@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/PortafolioReact/build/static/css/main.a3d728cc.css",
-    "main.js": "/PortafolioReact/build/static/js/main.a91bc8a1.js",
-    "static/js/787.ae0d8d37.chunk.js": "/PortafolioReact/build/static/js/787.ae0d8d37.chunk.js",
-    "static/media/Hugo-naranja.jpg": "/PortafolioReact/build/static/media/Hugo-naranja.f59afde4e8dfcdb2a6df.jpg",
-    "static/media/QuienesSomos.png": "/PortafolioReact/build/static/media/QuienesSomos.8f56d45f11aeeb225e91.png",
-    "static/media/Apeperia.png": "/PortafolioReact/build/static/media/Apeperia.d4e8ba64db3b3eaad318.png",
-    "static/media/404.png": "/PortafolioReact/build/static/media/404.1e7e2cfabd346a69a66a.png",
-    "static/media/Hugo.jpg": "/PortafolioReact/build/static/media/Hugo.60a28a9a701d4c46fb32.jpg",
-    "static/media/Programacion.jpg": "/PortafolioReact/build/static/media/Programacion.8140220115ba2a90c9fc.jpg",
-    "static/media/Portafolio.png": "/PortafolioReact/build/static/media/Portafolio.e8eee3cec72b0e804f18.png",
-    "static/media/Encriptador.png": "/PortafolioReact/build/static/media/Encriptador.9bf25c646ccbc694cff9.png",
-    "static/media/Oracle.png": "/PortafolioReact/build/static/media/Oracle.928acd777bd3d05d43e7.png",
-    "static/media/Alura.png": "/PortafolioReact/build/static/media/Alura.596d2952d5a885d04917.png",
-    "static/media/freeCode.jpeg": "/PortafolioReact/build/static/media/freeCode.24e008e3eca383a1657a.jpeg",
-    "static/media/Planes.png": "/PortafolioReact/build/static/media/Planes.7b2077d274536cd3a12b.png",
-    "static/media/UnitecLogo.jpeg": "/PortafolioReact/build/static/media/UnitecLogo.093a1d51d2622dceb722.jpeg",
-    "index.html": "/PortafolioReact/build/index.html",
-    "main.a3d728cc.css.map": "/PortafolioReact/build/static/css/main.a3d728cc.css.map",
-    "main.a91bc8a1.js.map": "/PortafolioReact/build/static/js/main.a91bc8a1.js.map",
-    "787.ae0d8d37.chunk.js.map": "/PortafolioReact/build/static/js/787.ae0d8d37.chunk.js.map"
+    "main.css": "/PortafolioReact/static/css/main.a3d728cc.css",
+    "main.js": "/PortafolioReact/static/js/main.6c228b1c.js",
+    "static/js/787.ae0d8d37.chunk.js": "/PortafolioReact/static/js/787.ae0d8d37.chunk.js",
+    "static/media/Hugo-naranja.jpg": "/PortafolioReact/static/media/Hugo-naranja.f59afde4e8dfcdb2a6df.jpg",
+    "static/media/QuienesSomos.png": "/PortafolioReact/static/media/QuienesSomos.8f56d45f11aeeb225e91.png",
+    "static/media/Apeperia.png": "/PortafolioReact/static/media/Apeperia.d4e8ba64db3b3eaad318.png",
+    "static/media/404.png": "/PortafolioReact/static/media/404.1e7e2cfabd346a69a66a.png",
+    "static/media/Hugo.jpg": "/PortafolioReact/static/media/Hugo.60a28a9a701d4c46fb32.jpg",
+    "static/media/Programacion.jpg": "/PortafolioReact/static/media/Programacion.8140220115ba2a90c9fc.jpg",
+    "static/media/Portafolio.png": "/PortafolioReact/static/media/Portafolio.e8eee3cec72b0e804f18.png",
+    "static/media/Encriptador.png": "/PortafolioReact/static/media/Encriptador.9bf25c646ccbc694cff9.png",
+    "static/media/Oracle.png": "/PortafolioReact/static/media/Oracle.928acd777bd3d05d43e7.png",
+    "static/media/Alura.png": "/PortafolioReact/static/media/Alura.596d2952d5a885d04917.png",
+    "static/media/freeCode.jpeg": "/PortafolioReact/static/media/freeCode.24e008e3eca383a1657a.jpeg",
+    "static/media/Planes.png": "/PortafolioReact/static/media/Planes.7b2077d274536cd3a12b.png",
+    "static/media/UnitecLogo.jpeg": "/PortafolioReact/static/media/UnitecLogo.093a1d51d2622dceb722.jpeg",
+    "index.html": "/PortafolioReact/index.html",
+    "main.a3d728cc.css.map": "/PortafolioReact/static/css/main.a3d728cc.css.map",
+    "main.6c228b1c.js.map": "/PortafolioReact/static/js/main.6c228b1c.js.map",
+    "787.ae0d8d37.chunk.js.map": "/PortafolioReact/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3d728cc.css",
-    "static/js/main.a91bc8a1.js"
+    "static/js/main.6c228b1c.js"
   ]
 }
