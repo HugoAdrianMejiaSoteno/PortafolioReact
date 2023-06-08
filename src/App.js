@@ -1,24 +1,18 @@
-import logo from './logo.svg';
+/*Estamos usando la libreria de react-icons y react-router-dom y framer-motion*/
+import Header from './Componentes/Header/Header';
+import { BrowserRouter as Router} from 'react-router-dom'; 
 import './App.css';
+import AnimatedRoutes from './Componentes/AnimatedRoutes';
+//Para las animaciones entre paginamas vamos a utilizar la libreria de framer motion de npm, esta nos permite anadir transisiones entre paginas utilizando reaact router
+
+//Dentro ded AnimatedRoutes esta toda la logica de las rutas, solo que lo mandamos a otro archivo diferente en vez de tener aqui todo junto para poder implementar la libreria de framer-motion ya que no se podia hacer directamente por el tema de useLocation
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Header/>
+      <AnimatedRoutes/>
+    </Router>
   );
 }
 

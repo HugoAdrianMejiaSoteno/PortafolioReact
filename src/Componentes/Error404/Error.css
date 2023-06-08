@@ -1,0 +1,33 @@
+.container1 {
+    margin-top: 0px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image1 {
+    border-radius: 0%;
+}
+
+.text {
+    margin-left: 30px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.f {
+    color: #80bd03;
+}
+
+.p{
+    color: #f8dc3e;
+}
+
+.n{
+    color: #00669c;
+}
+
+.p4 {
+    color: #e34e26;
+}
