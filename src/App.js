@@ -12,10 +12,10 @@ import AnimatedRoutes from './Componentes/AnimatedRoutes';
 //tambien voy a cambiar el BrowserRouter as Router por  HashRouter el cual nos ayuda a reinciiar las rutas cuando entremos a un link y volvamos a la pagina
 function App() {
   return (
-    <HashRouter>
+    <>
       <Header/>
       <AnimatedRoutes/>
-    </HashRouter>
+    </>
   );
 }
 
