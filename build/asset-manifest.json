@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortafolioReact/static/css/main.a3d728cc.css",
-    "main.js": "/PortafolioReact/static/js/main.6c228b1c.js",
+    "main.js": "/PortafolioReact/static/js/main.ea5b7a3f.js",
     "static/js/787.ae0d8d37.chunk.js": "/PortafolioReact/static/js/787.ae0d8d37.chunk.js",
     "static/media/Hugo-naranja.jpg": "/PortafolioReact/static/media/Hugo-naranja.f59afde4e8dfcdb2a6df.jpg",
     "static/media/QuienesSomos.png": "/PortafolioReact/static/media/QuienesSomos.8f56d45f11aeeb225e91.png",
@@ -18,11 +18,11 @@
     "static/media/UnitecLogo.jpeg": "/PortafolioReact/static/media/UnitecLogo.093a1d51d2622dceb722.jpeg",
     "index.html": "/PortafolioReact/index.html",
     "main.a3d728cc.css.map": "/PortafolioReact/static/css/main.a3d728cc.css.map",
-    "main.6c228b1c.js.map": "/PortafolioReact/static/js/main.6c228b1c.js.map",
+    "main.ea5b7a3f.js.map": "/PortafolioReact/static/js/main.ea5b7a3f.js.map",
     "787.ae0d8d37.chunk.js.map": "/PortafolioReact/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3d728cc.css",
-    "static/js/main.6c228b1c.js"
+    "static/js/main.ea5b7a3f.js"
   ]
 }

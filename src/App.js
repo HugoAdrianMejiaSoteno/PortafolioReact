@@ -1,6 +1,6 @@
 /*Estamos usando la libreria de react-icons y react-router-dom y framer-motion*/
 import Header from './Componentes/Header/Header';
-import { HashRouter} from 'react-router-dom'; 
+import { BrowserRouter  as Router} from 'react-router-dom'; 
 import './App.css';
 import AnimatedRoutes from './Componentes/AnimatedRoutes';
 //Para las animaciones entre paginamas vamos a utilizar la libreria de framer motion de npm, esta nos permite anadir transisiones entre paginas utilizando reaact router
@@ -12,10 +12,10 @@ import AnimatedRoutes from './Componentes/AnimatedRoutes';
 //tambien voy a cambiar el BrowserRouter as Router por  HashRouter el cual nos ayuda a reinciiar las rutas cuando entremos a un link y volvamos a la pagina
 function App() {
   return (
-    <HashRouter>
+    <Router>
       <Header/>
       <AnimatedRoutes/>
-    </HashRouter>
+    </Router>
   );
 }
 
