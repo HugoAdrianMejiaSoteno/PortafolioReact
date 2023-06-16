@@ -8,3 +8,15 @@
     text-align: center;
     margin-bottom: 2px;
 }
+
+@media (max-width: 768px) {
+    /* Estilos a aplicar cuando el ancho de la pantalla es igual o menor a 768px */
+    .Proyectos-container {
+        height: 100%;
+    }
+
+    .intro-proyectos{
+        margin-bottom: 20px;
+    }
+
+  }

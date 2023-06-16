@@ -7,8 +7,8 @@ const Presentation = ()=>{
     <motion.main className="presentation-container" initial={{width:0}} animate={{width:"100%"}} exit={{x:window.innerWidth, transition:{duration:0.1}}}>
       <div className='presentation'>
         <div className="info-container">
-          <h2>Hola, mi nombre es <span className='h'>H</span>ugo Mejia <br/>y soy <span className='d'>D</span>esarrollador <span className='f'>F</span>ullstack <span className='j'>J</span>unior</h2>
-          <p>Soy ingeniero en sistemas formado en la UNITEC y estoy certificado como desarrollador por varias instituciones importantes entre una de ellas Oracle.</p>
+          <h3 className='presentation-titulo'>Hola, mi nombre es <span className='h'>H</span>ugo Mejia <br/>y soy <span className='d'>D</span>esarrollador <span className='f'>F</span>ullstack <span className='j'>J</span>unior</h3>
+          <p className='p-titulo'>Soy ingeniero en sistemas formado en la UNITEC y estoy certificado como desarrollador por varias instituciones importantes entre una de ellas Oracle.</p>
           <div className="links-container">
             <a href="https://github.com/HugoAdrianMejiaSoteno" className='links git'>GitHub</a>
             <a href="https://www.linkedin.com/in/hugo-mejia-dev/" className='links linkedin'>LinkedIn</a>

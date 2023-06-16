@@ -14,7 +14,7 @@ const Proyectos = ()=>{
             </div>
             <Proyecto imagen={QuienesSomos} titulo="Quienes somos" descripcion="Landing page sobre informacion de una empresa"/>
             <Proyecto imagen={Encriptador} titulo="Encriptador de texto" descripcion="Encriptador y desencriptador de textos" link="https://hugoadrianmejiasoteno.github.io/Encriptador-ONE/"/>
-            <Proyecto imagen={Portafolio} titulo="Portafolio personal" descripcion="Mi portafolio para saber mas acerca de mi"/>
+            <Proyecto imagen={Portafolio} titulo="Portafolio personal" descripcion="Mi portafolio para saber mas acerca de mi" link="https://hugoadrianmejiasoteno.github.io/PortafolioReact/build/"/>
             <Proyecto imagen={Apeperia} titulo="Tienda de papeleria" descripcion="Landing page de papeleria Apeperia" link="https://hugoadrianmejiasoteno.github.io/ApeperiaAlura/"/>
             <Proyecto imagen={Planes} titulo="Planes de costos" descripcion="Planes de costos sobre un servicio" link="https://hugoadrianmejiasoteno.github.io/ApeperiaAlura/"/>
         </motion.main>

@@ -25,14 +25,7 @@ const Contacto = ()=>{
                     <Box
                     component="form"
                     autoComplete="off"
-                    sx={{
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        flexDirection: "column",
-                        width: "400px",
-                        paddingTop: "0px"
-                    }}
+                    className="caja-form"
                     onSubmit={(e)=>{
                         e.preventDefault();
                         alert("Formulario de prueba, para contactar mediante LinkedIn o correo :)");
@@ -112,9 +105,9 @@ const Contacto = ()=>{
                             setMensaje({value: valor, valid:valid}); 
                         }}
                         />
-                    <Button variant="contained" type="submit" sx={{margin:"15px", width:"150px"}} size="large">
-                        Enviar
-                    </Button>
+                        <Button variant="contained" type="submit" sx={{margin:"15px", width:"150px"}} size="large">
+                            Enviar
+                        </Button>
                     </Box>
                 </div>
             </div>

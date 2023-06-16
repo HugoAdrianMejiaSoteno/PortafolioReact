@@ -46,3 +46,11 @@
   font-size: 15px;
   margin-bottom: 5px;
 }
+
+
+@media (max-width: 768px) {
+  /* Estilos a aplicar cuando el ancho de la pantalla es igual o menor a 768px */
+  .card-container{
+    margin: 20px;
+  }
+}

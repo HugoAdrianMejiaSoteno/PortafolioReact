@@ -41,3 +41,51 @@
     text-align: justify;
 }
 
+
+@media (max-width: 768px) {
+    /* Estilos a aplicar cuando el ancho de la pantalla es igual o menor a 768px */
+    .about-container{
+    }
+
+    .about-inicio{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .image1-container{
+        width: 100%;
+        height: 250px;
+        padding: 0px;
+    }
+
+    .image-HugoNaranja{
+        height: 240px;
+        width: 260px;
+        margin: 0px;
+    }
+
+    .aboutme-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .titulo-aboutme{
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+
+    .aboutme-text{
+        margin: 5px 0px 20px 0px;
+        padding: 0px;
+        text-align: center;
+        width: 320px;
+        text-align: justify;
+    }
+}

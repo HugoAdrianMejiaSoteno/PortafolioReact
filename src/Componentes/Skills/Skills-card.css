@@ -34,3 +34,15 @@
 .skill-titulo{
     font-size: 15px;
 }
+
+@media (max-width: 768px) {
+    /* Estilos a aplicar cuando el ancho de la pantalla es igual o menor a 768px */
+    .skill-container {
+        height: 100px;
+        width: 100px;
+    }
+    .skill-titulo{
+        font-size: 12px;
+    }
+    /* Otros estilos... */
+  }

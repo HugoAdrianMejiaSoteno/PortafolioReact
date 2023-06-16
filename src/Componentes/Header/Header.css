@@ -111,3 +111,65 @@ a {
     margin-left: 6px;
 }
 
+@media (max-width: 768px) {
+    /* Estilos a aplicar cuando el ancho de la pantalla es igual o menor a 768px */
+    .header {
+      padding-top: 0px;
+      margin-top: 0px;
+      height: 150px;
+      flex-direction: column;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    }
+
+    .MiNombre{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-top: 0px;
+        height: 80px;
+        height: 60px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .icono{
+        display: none;
+    }
+
+    .nombre{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 50px;
+    }
+
+    .menu{
+        height: 100px;
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+    .menu-list{
+        height: 100px;
+        padding-left: 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .menu-list-item{
+        margin-left: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        width: 100px;
+        margin: 5px;
+    }
+  }

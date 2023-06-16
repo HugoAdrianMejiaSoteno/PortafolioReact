@@ -20,7 +20,6 @@ const AboutMe = ()=>{
           profesional.</p>
         </div>
       </div>
-
     </motion.main>  
   )
 
